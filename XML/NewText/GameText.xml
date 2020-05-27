@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/23/2020 10:08:34 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- START ALDURAN CIV TEXT -->
+		<Row Tag="TXT_KEY_CITY_NAME_AZUDAWN">
+			<Text>Azudawn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FREIDPORT">
+			<Text>Friedport</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WONN">
+			<Text>Wonn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_OSA">
+			<Text>Osa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NARU">
+			<Text>Naru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SUUN">
+			<Text>Suun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ALDURAN_ADJECTIVE">
+			<Text>Alduran</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ALDURAN_DESC">
+			<Text>Alduran Province</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ALDURAN_SHORT_DESC">
+			<Text>Aldura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ALDURAN_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ALDURAN_TEXT_1">
+			<Text>Honor is the ideal held in highest regard by aldurans. Aldura lies west of Empirus and runs all of the way to the western coast of Feril. To its north lies the Bleaks, a wasteland covered in black ooze and chitin, slowly expanding its domain, and to its south are the provinces Myscus and Orbis.</Text>
+		</Row>
+		<!-- END ALDURAN CIV TEXT -->
+
+		<!-- START VELDAKKI CIV TEXT -->
+		<Row Tag="TXT_KEY_CITY_NAME_VALKOREN">
+			<Text>Val Korr'en</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VELDAKKI_DESC">
+			<Text>Veldakki Horde</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VELDAKKI_ADJECTIVE">
+			<Text>Veldakki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_VELDAKKI_SHORT_DESC">
+			<Text>Veldakki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VELDAKKI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_VELDAKKI_TEXT_1">
+			<Text>The Veldakki seek to reclaim what was once their's, no matter the cost.</Text>
+		</Row>
+		<!-- END VELDAKKI CIV TEXT -->
+
+		<!-- START IGNUS LEADER TEXT -->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_IGNUS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_IGNUS_TEXT_1">
+			<Text>Ignus is the hot-headed Lord of Aldura. He is quick to action, and unforgiving of betrayal. In the end he wants what is best for his people, but personal slights can cloud his judgement. He is also a fierce warrior, known for his unique fighting style in which he wields two katanas, lit a-flame.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_IGNUS_INSIDAES">
+			<Text>Ignus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_IGNUS_LIVED">
+			<Text>???</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_IGNUS_NAME">
+			<Text>Ignus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_IGNUS_SUBTITLE">
+			<Text>Lord of Aldura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_IGNUS">
+			<Text>Ignus</Text>
+		</Row>
+		<!-- END IGNUS LEADER TEXT -->
+
+		<!-- START ZEPRAM LEADER TEXT -->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ZEPRAM_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ZEPRAM_TEXT_1">
+			<Text>Prince Zepram is the youngest Blood Prince, and likely the most off his hinges.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PRINCE_ZEPRAM">
+			<Text>Zepram</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ZEPRAM_LIVED">
+			<Text>???</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ZEPRAM_NAME">
+			<Text>Zepram</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_ZEPRAM_SUBTITLE">
+			<Text>Blood Prince of the Veldakki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ZEPRAM">
+			<Text>Zepram</Text>
+		</Row>
+		<!-- END ZEPRAM LEADER TEXT-->
+		
+		<!-- START HONORGUARD UNIT TEXT -->
+		<Row Tag="TXT_KEY_UNIT_HONORGUARD">
+			<Text>Honorguard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_HONORGUARD">
+			<Text>Powerful warriors of Aldura. Bound by honor, and expert swordsmen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_HONORGUARD_TEXT">
+			<Text>Powerful medieval era unit. Excels in open terrain, and has a reduced cost compared to other units of the same class.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HONORGUARD_STRATEGY">
+			<Text>Powerful medieval era unit. Excels in open terrain, and has a reduced cost compared to other units of the same class.</Text>
+		</Row>
+		<!-- END HONORGUARD UNIT TEXT -->
+
+		<!-- START HUNTSMAN UNIT TEXT -->
+		<Row Tag="TXT_KEY_UNIT_HUNTSMAN">
+			<Text>Huntsman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_HUNTSMAN">
+			<Text>Warriors comfortable in the outdoors.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_HUNTSMAN_TEXT">
+			<Text>Powerful ancient era unit. Excels in rough terrain, and receives no movement penalty in rough terrain.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HUNTSMAN_STRATEGY">
+			<Text>Powerful ancient era unit. Excels in rough terrain, and receives no movement penalty in rough terrain.</Text>
+		</Row>
+		<!-- END HUNTSMAN UNIT TEXT -->
+
+		<!-- START PURVEYOR UNIT TEXT -->
+		<Row Tag="TXT_KEY_UNIT_PURVEYOR">
+			<Text>Purveyor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_PURVEYOR">
+			<Text>Workers of the Veldakki Horde.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_ANTIQUITY_PURVEYOR_TEXT">
+			<Text>Worker units. They can produce ichor (roads) at no maintenance costs, but cannot perform some tile improvements like farms, pastures, or plantations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PURVEYOR_STRATEGY">
+			<Text>Worker units. They can produce ichor (roads) at no maintenance costs, but cannot perform some tile improvements like farms, pastures, or plantations.</Text>
+		</Row>
+		<!-- END PURVEYOR UNIT TEXT -->
+		
+		<!-- START HONORABLE PROVINCE TRAIT TEXT -->
+		<Row Tag="TXT_KEY_TRAIT_HONORABLE_PROVINCE">
+			<Text>Birth rate of Great Generals is increased by 50%. Defeating units in combat yields culture equal to half the deated unit's strength.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_HONORABLE_PROVINCE_SHORT">
+			<Text>Honorable Province</Text>
+		</Row>
+		<!-- END HONORABLE PROVINCE TRAIT TEXT -->
+		
+		<!-- START VELDAKKI CONQUEST TRAIT TEXT -->
+		<Row Tag="TXT_KEY_TRAIT_VELDAKKI_CONQUEST">
+			<Text>Cannot gain settlers. Unhappiness from number of cities and from population reduced by 50%. All melee units deal 25% increased damage to cities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_VELDAKKI_CONQUEST_SHORT">
+			<Text>Veldakki Conquest</Text>
+		</Row>
+		<!-- END VELDAKKI CONQUEST TRAIT TEXT -->
+		
+		<!-- START ICHOR ROUTE TEXT -->
+		<Row Tag="TXT_KEY_ROUTE_ICHOR">
+			<Text>Ichor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_ICHOR_TEXT">
+			<Text>Ichor</Text>
+		</Row>
+		<!-- END ICHOR ROUTE TEXT -->
+
+		<!-- START ICHOR BUILD TEXT -->
+		<Row Tag="TXT_KEY_BUILD_ICHOR">
+			<Text>Spread Ichor.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_ICHOR_HELP">
+			<Text>Route of the Veldakki. Costs no maintenance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_ICHOR_REC">
+			<Text>Route of the Veldakki. Costs no maintenance.</Text>
+		</Row>
+		<!-- END ICHOR BUILD TEXT -->
+	</Language_en_US>
+</GameData>

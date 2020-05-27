@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/26/2020 1:57:42 PM -->
+<GameData>
+	<Builds>
+		<Row>
+			<Type>BUILD_ICHOR</Type>
+			<PrereqTech>TECH_AGRICULTURE</PrereqTech>
+			<Time>400</Time>
+			<RouteType>ROUTE_ICHOR</RouteType>
+			<Description>TXT_KEY_BUILD_ICHOR</Description>
+			<Help>TXT_KEY_BUILD_ICHOR_HELP</Help>
+			<Recommendation>TXT_KEY_BUILD_ICHOR_REC</Recommendation>
+			<EntityEvent>ENTITY_EVENT_SHOVEL</EntityEvent>
+			<HotKey>KB_R</HotKey>
+			<CtrlDownAlt>1</CtrlDownAlt>
+			<OrderPriority>95</OrderPriority>
+			<IconIndex>24</IconIndex>
+			<IconAtlas>UNIT_ACTION_ATLAS</IconAtlas>
+		</Row>
+	</Builds>
+</GameData>

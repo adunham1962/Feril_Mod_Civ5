@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/24/2020 4:54:27 PM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_HONORABLE_PROVINCE</Type>
+			<Description>TXT_KEY_TRAIT_HONORABLE_PROVINCE</Description>
+			<ShortDescription>TXT_KEY_TRAIT_HONORABLE_PROVINCE_SHORT</ShortDescription>
+			<GreatGeneralRateModifier>50</GreatGeneralRateModifier>
+			<CultureFromKills>50</CultureFromKills>
+		</Row>
+		<Row>
+			<Type>TRAIT_VELDAKKI_CONQUEST</Type>
+			<Description>TXT_KEY_TRAIT_VELDAKKI_CONQUEST</Description>
+			<ShortDescription>TXT_KEY_TRAIT_VELDAKKI_CONQUEST_SHORT</ShortDescription>
+			<CityUnhappinessModifier>-50</CityUnhappinessModifier>
+			<PopulationUnhappinessModifier>-50</PopulationUnhappinessModifier>
+		</Row>
+		<!--<Row>
+			<Type>TRAIT_SILVAN_LIFE</Type>
+			<MoveFriendlyWoodsAsRoad>true</MoveFriendlyWoodsAsRoad>
+		</Row>-->
+	</Traits>
+	<Trait_FreePromotions>
+		<TraitType>TRAIT_VEDAKKI_CONQUEST</TraitType>
+		<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+		<PromotionType>PROMOTION_SIEGE</PromotionType>
+	</Trait_FreePromotions>
+	<Trait_NoTrain>
+		<Row>
+			<TraitType>TRAIT_VELDAKKI_CONQUEST</TraitType>
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+		</Row>
+	</Trait_NoTrain>
+
+	<!--<Trait_UnimprovedFeatureYieldChanges>
+		<Row>
+			<TraitType>TRAIT_SILVAN_LIFE</TraitType>
+			<FeatureType>FOREST</FeatureType>
+			<YieldType>YIELD_HAPPINESS</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_SILVAN_LIFE</TraitType>
+			<FeatureType>FOREST</FeatureType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_SILVAN_LIFE</TraitType>
+			<FeatureType>FOREST</FeatureType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>2</Yield>
+		</Row>
+	</Trait_UnimprovedFeatureYieldChanges> -->
+</GameData>

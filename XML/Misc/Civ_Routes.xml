@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/26/2020 1:53:40 PM -->
+<GameData>
+	<Routes>
+		<Row>
+			<Type>ROUTE_ICHOR</Type>
+			<Description>TXT_KEY_ROUTE_ICHOR</Description>
+			<Value>1</Value>
+			<AdvancedStartCost>12</AdvancedStartCost>
+			<Movement>30</Movement>
+			<FlatMovement>30</FlatMovement>
+			<GoldMaintenance>0</GoldMaintenance>
+			<Civilopedia>TXT_KEY_CIV5_IMPROVEMENTS_ICHOR_TEXT</Civilopedia>
+			<PortraitIndex>40</PortraitIndex>
+			<IconAtlas>TERRAIN_ATLAS</IconAtlas>
+		</Row>
+	</Routes>
+	<Route_Yields>
+		<Row>
+			<RouteType>ROUTE_ROAD</RouteType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>0</Yield>
+		</Row>
+	</Route_Yields>
+</GameData>
