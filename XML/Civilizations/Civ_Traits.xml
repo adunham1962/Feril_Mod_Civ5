@@ -13,7 +13,7 @@
 			<Type>TRAIT_VELDAKKI_CONQUEST</Type>
 			<Description>TXT_KEY_TRAIT_VELDAKKI_CONQUEST</Description>
 			<ShortDescription>TXT_KEY_TRAIT_VELDAKKI_CONQUEST_SHORT</ShortDescription>
-			<CityUnhappinessModifier>-50</CityUnhappinessModifier>
+			<CityUnhappinessModifier>-100</CityUnhappinessModifier>
 			<PopulationUnhappinessModifier>-50</PopulationUnhappinessModifier>
 		</Row>
 		<!--<Row>
@@ -21,11 +21,13 @@
 			<MoveFriendlyWoodsAsRoad>true</MoveFriendlyWoodsAsRoad>
 		</Row>-->
 	</Traits>
-	<Trait_FreePromotions>
-		<TraitType>TRAIT_VEDAKKI_CONQUEST</TraitType>
-		<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
-		<PromotionType>PROMOTION_SIEGE</PromotionType>
-	</Trait_FreePromotions>
+	<Trait_FreePromotionUnitCombats>
+		<Row>
+			<TraitType>TRAIT_VELDAKKI_CONQUEST</TraitType>
+			<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+			<PromotionType>PROMOTION_SIEGE</PromotionType>
+		</Row>
+	</Trait_FreePromotionUnitCombats>
 	<Trait_NoTrain>
 		<Row>
 			<TraitType>TRAIT_VELDAKKI_CONQUEST</TraitType>
