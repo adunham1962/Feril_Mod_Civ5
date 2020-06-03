@@ -13,10 +13,10 @@
 			<ArtStyleType>ARTSTYLE_ASIAN</ArtStyleType>
 			<ArtStyleSuffix>_ASIAN</ArtStyleSuffix>
 			<ArtStylePrefix>ASIAN </ArtStylePrefix>
-			<PortraitIndex>1</PortraitIndex>
+			<PortraitIndex>3</PortraitIndex>
 			<IconAtlas>LEADER_ICON_ATLAS</IconAtlas>
 			<AlphaIconAtlas>CIV_ALPHA_ATLAS</AlphaIconAtlas>
-			<MapImage>AlduraMap.dds</MapImage>
+			<MapImage>VeldakkiMap.dds</MapImage>
 			<DawnOfManQuote>TXT_KEY_CIV5_VELDAKKI_TEXT_1</DawnOfManQuote>
 			<DawnOfManImage>DOM_Oda.dds</DawnOfManImage>
 		</Row>
@@ -95,8 +95,8 @@
 
 		<Row>
 			<CivilizationType>CIVILIZATION_VELDAKKI</CivilizationType>
-			<UnitClassType>UNITCLASS_LONGSWORDSMAN</UnitClassType>
-			<UnitType>UNIT_HONORGUARD</UnitType>
+			<UnitClassType>UNITCLASS_WARRIOR</UnitClassType>
+			<UnitType>UNIT_HORDE</UnitType>
 		</Row>
 	</Civilization_UnitClassOverrides>
 </GameData>

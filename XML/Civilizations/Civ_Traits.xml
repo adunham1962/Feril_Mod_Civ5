@@ -6,7 +6,7 @@
 			<Type>TRAIT_HONORABLE_PROVINCE</Type>
 			<Description>TXT_KEY_TRAIT_HONORABLE_PROVINCE</Description>
 			<ShortDescription>TXT_KEY_TRAIT_HONORABLE_PROVINCE_SHORT</ShortDescription>
-			<GreatGeneralRateModifier>50</GreatGeneralRateModifier>
+			<GreatGeneralRateModifier>100</GreatGeneralRateModifier>
 			<CultureFromKills>50</CultureFromKills>
 		</Row>
 		<Row>
@@ -14,7 +14,7 @@
 			<Description>TXT_KEY_TRAIT_VELDAKKI_CONQUEST</Description>
 			<ShortDescription>TXT_KEY_TRAIT_VELDAKKI_CONQUEST_SHORT</ShortDescription>
 			<CityUnhappinessModifier>-100</CityUnhappinessModifier>
-			<PopulationUnhappinessModifier>-50</PopulationUnhappinessModifier>
+			<PopulationUnhappinessModifier>-100</PopulationUnhappinessModifier>
 		</Row>
 		<!--<Row>
 			<Type>TRAIT_SILVAN_LIFE</Type>
