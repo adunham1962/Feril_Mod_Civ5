@@ -163,7 +163,7 @@
 		
 		<!-- START VELDAKKI CONQUEST TRAIT TEXT -->
 		<Row Tag="TXT_KEY_TRAIT_VELDAKKI_CONQUEST">
-			<Text>Cannot gain settlers. Unhappiness from number of cities and from population reduced by 50%. All melee units deal 25% increased damage to cities.</Text>
+			<Text>Cannot gain settlers. Unhappiness from number of cities and from population reduced by 100%. All melee units deal 50% increased damage to cities.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_TRAIT_VELDAKKI_CONQUEST_SHORT">
 			<Text>Veldakki Conquest</Text>
@@ -187,7 +187,7 @@
 			<Text>Route of the Veldakki. Costs no maintenance.</Text>
 		</Row>
 		<Row Tag="TXT_KEY_BUILD_ICHOR_REC">
-			<Text>Route of the Veldakki. Costs no maintenance.</Text>
+			<Text>Spread Ichor.</Text>
 		</Row>
 		<!-- END ICHOR BUILD TEXT -->
 	</Language_en_US>

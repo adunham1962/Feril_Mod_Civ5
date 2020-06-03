@@ -19,7 +19,7 @@
 		<Row>
 			<RouteType>ROUTE_ROAD</RouteType>
 			<YieldType>YIELD_FOOD</YieldType>
-			<Yield>0</Yield>
+			<Yield>1</Yield>
 		</Row>
 	</Route_Yields>
 </GameData>

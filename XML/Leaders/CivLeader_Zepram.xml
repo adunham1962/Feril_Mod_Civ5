@@ -15,7 +15,7 @@
 			<WarmongerHate>1</WarmongerHate>
 			<WorkAgainstWillingness>10</WorkAgainstWillingness>
 			<WorkWithWillingness>1</WorkWithWillingness>
-			<PortraitIndex>0</PortraitIndex>
+			<PortraitIndex>2</PortraitIndex>
 			<IconAtlas>LEADER_ICON_ATLAS</IconAtlas>
 		</Row>
 	</Leaders>
